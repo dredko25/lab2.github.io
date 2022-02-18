@@ -1,0 +1,55 @@
+.first{
+    margin: 10px 0px 10px 0px;
+}
+.sp {
+    color: hsl(193, 100%, 5%);
+    background-color: #428f8f;
+}
+.sp:hover {
+    background: #EEA86E;
+    color: #fff;
+}
+.square{
+    margin: 40px 0px 0px 70px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.rectangle_1{
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 120px;
+    bottom: 120px;
+}
+.rectangle_2{
+    width: 40px;
+    height: 100px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    left: 150px;
+    bottom: 190px;
+}
+._square{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    transform: translate(400px, -340px);
+}
+._rectangle_1{
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    transform: translate(450px, -460px);
+}
+._rectangle_2{
+    width: 40px;
+    height: 100px;
+    background-color: white;
+    border-radius: 10px;
+    transform: translate(480px, -530px);
+}
